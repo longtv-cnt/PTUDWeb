@@ -1,0 +1,20 @@
+.header{
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 18pt;
+	
+}
+.wrap{
+	min-height: 700px;
+	background-color: #eee;
+}
+.editnav{
+	background-color: #ccc;
+	margin-bottom: 20px;
+}
+.footer{
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 18pt;
+	margin-top: 30px;
+}

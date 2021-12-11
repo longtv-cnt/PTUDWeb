@@ -1,0 +1,33 @@
+header{
+    text-align: center;
+    padding: 40px;
+    margin: 30px;
+    font-size: xx-large;
+    font-weight: bold;
+    background-color: rgb(196, 255, 252);
+    border-radius: 4px;
+}
+
+.container{
+    background-color: rgb(184, 189, 255);
+    border-radius: 4px;
+    padding: 20px;
+}
+
+footer{
+    text-align: center;
+    text-align: center;
+    padding: 30px;
+    margin: 30px;
+    font-size: large;
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(0, 68, 255);
+    background-color: rgb(250, 203, 187);
+    border-radius: 4px;
+}
+
+.nav{
+    background-color: rgb(129, 255, 182);
+    font-weight: bold;
+}
